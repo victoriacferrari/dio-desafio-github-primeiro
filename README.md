@@ -1,2 +1,2 @@
 # dio-desafio-github-primeiro
-Bootcamp
+Bootcamp Eduzz
